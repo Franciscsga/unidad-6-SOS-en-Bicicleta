@@ -1,0 +1,2539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260401224323MJX0PQ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260401224323SE1I8B</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA Propuesta para el alumnado</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Francisco Serrano García de dionisio</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Recurso didáctico orientado a la formación del alumnado en la gestión de emergencias durante rutas en bicicleta. Incluye contenidos sobre prevención de riesgos, actuación ante accidentes, conducción segura de grupos y elaboración de productos aplicados como infografías, podcast y diseño de una jornada ciclista.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775069140217</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mngec2c7-hsjn6rxcp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SOS Emergencia en Bicicleta (Manual situación de aprendizaje 6)</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SOS Emergencia en Bicicleta (Manual situación de aprendizaje 6)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SOS Emergencia en Bicicleta (Manual situación de aprendizaje 6)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2c7-hsjn6rxcp</odePageId>
+      <odeBlockId>block-1775055161919-o1mxzllwq</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2c7-hsjn6rxcp</odePageId>
+          <odeBlockId>block-1775055161919-o1mxzllwq</odeBlockId>
+          <odeIdeviceId>idevice-1775055161918-w3mqu3x5e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/ChatGPT Image 1 abr 2026, 14_00_10.png" width="767" height="511" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775055161918-w3mqu3x5e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/ChatGPT Image 1 abr 2026, 14_00_10.png\" width=\"767\" height=\"511\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2c9-w8jhazj14</odePageId>
+  <odeParentPageId>page-mngec2c7-hsjn6rxcp</odeParentPageId>
+  <pageName>1. Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2c9-w8jhazj14</odePageId>
+      <odeBlockId>block-1775044930313-hbecs6u8m</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2c9-w8jhazj14</odePageId>
+          <odeBlockId>block-1775044930313-hbecs6u8m</odeBlockId>
+          <odeIdeviceId>idevice-1775044930310-xtrk732j4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta Situación de Aprendizaje, “SOS Emergencia en Bicicleta”, vas a aprender a actuar cuando ocurre un accidente en una ruta en bici y a cuidar de un grupo en situaciones reales.</p>
+<p>A lo largo de las sesiones trabajarás de forma práctica: resolverás situaciones, participarás en simulaciones y crearás tus propios productos como una infografía, un podcast y el diseño de una jornada ciclista segura.</p>
+<p>La idea es que aprendas haciendo, de forma activa y participativa, preparándote para situaciones reales que podrás encontrar como guía de bicicleta.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775044930310-xtrk732j4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta Situación de Aprendizaje, “SOS Emergencia en Bicicleta”, vas a aprender a actuar cuando ocurre un accidente en una ruta en bici y a cuidar de un grupo en situaciones reales.</p>\n<p>A lo largo de las sesiones trabajarás de forma práctica: resolverás situaciones, participarás en simulaciones y crearás tus propios productos como una infografía, un podcast y el diseño de una jornada ciclista segura.</p>\n<p>La idea es que aprendas haciendo, de forma activa y participativa, preparándote para situaciones reales que podrás encontrar como guía de bicicleta.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mngec2c9-w8jhazj14</odePageId>
+      <odeBlockId>block-1775069576624-pm3k3bmh9</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2c9-w8jhazj14</odePageId>
+          <odeBlockId>block-1775069576624-pm3k3bmh9</odeBlockId>
+          <odeIdeviceId>idevice-1775069576618-ujji07ei5</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-2"><h2 style="display:none;">DUA</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>En esta Situación de Aprendizaje, “SOS Emergencia en Bicicleta”, vas a aprender a actuar cuando ocurre un accidente en una ruta en bici y a cuidar de un grupo en situaciones reales.</p>
+<p>A lo largo de las sesiones trabajarás de forma práctica: resolverás situaciones, participarás en simulaciones y crearás tus propios productos como una infografía, un podcast y el diseño de una jornada ciclista segura.</p>
+<p>La idea es que aprendas haciendo, de forma activa y participativa, preparándote para situaciones reales que podrás encontrar como guía de bicicleta.</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p><strong>En</strong> “SOS Emergencia en Bicicleta”, aprenderás</p>
+<ul>
+<li>Actuaciones cuando ocurre un accidente en una ruta en bici</li>
+<li>Cuidar de un grupo en situaciones reales.</li>
+</ul>
+<p>En las sesiones trabajarás:</p>
+<ul>
+<li>Situaciones prácticas</li>
+<li>Simulaciones</li>
+<li>crearás una infografía</li>
+<li>Crearás un podcast</li>
+<li>Diseñaras una jornada ciclista.</li>
+</ul>
+<p><br></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article><article class="exe-udlContent-content-visual js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Apoyo visual</h2></header><p><img src="{{context_path}}/content/resources/apoyo intro.png" width="1024" height="1536" alt=""></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2ca-xmjqstbld</odePageId>
+  <odeParentPageId>page-mngec2c7-hsjn6rxcp</odeParentPageId>
+  <pageName>2. Sesiones</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2ca-xmjqstbld</odePageId>
+      <odeBlockId>block-1775045132388-vck3zrdxp</odeBlockId>
+      <blockName>¿Qué vamos a hacer en esta unidad?</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2ca-xmjqstbld</odePageId>
+          <odeBlockId>block-1775045132388-vck3zrdxp</odeBlockId>
+          <odeIdeviceId>idevice-1775045132387-6i28pqcnq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo de 4 sesiones aprenderás a actuar ante emergencias en bicicleta y a dirigir un grupo con seguridad.</p>
+<p>Cada sesión tendrá un objetivo claro:</p>
+<ul>
+<li><strong>Sesión 1: </strong>Identificar riesgos y saber cómo actuar ante un accidente.<br /></li>
+<li><strong>Sesión 2: </strong>Aprender protocolos de actuación y comunicación en emergencias.<br /></li>
+<li><strong>Sesión 3:</strong> Aplicar lo aprendido en situaciones prácticas y tomar decisiones.<br /></li>
+<li><strong>Sesión 4:</strong> Diseñar una jornada ciclista segura y presentar los trabajos.<br /> </li>
+</ul>
+<p>Poco a poco irás desarrollando las habilidades necesarias para actuar con seguridad en situaciones reales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775045132387-6i28pqcnq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo de 4 sesiones aprenderás a actuar ante emergencias en bicicleta y a dirigir un grupo con seguridad.</p>\n<p>Cada sesión tendrá un objetivo claro:</p>\n<ul>\n<li><strong>Sesión 1: </strong>Identificar riesgos y saber cómo actuar ante un accidente.<br /></li>\n<li><strong>Sesión 2: </strong>Aprender protocolos de actuación y comunicación en emergencias.<br /></li>\n<li><strong>Sesión 3:</strong> Aplicar lo aprendido en situaciones prácticas y tomar decisiones.<br /></li>\n<li><strong>Sesión 4:</strong> Diseñar una jornada ciclista segura y presentar los trabajos.<br /> </li>\n</ul>\n<p>Poco a poco irás desarrollando las habilidades necesarias para actuar con seguridad en situaciones reales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2ca-g0sl7ke2n</odePageId>
+  <odeParentPageId>page-mngec2ca-xmjqstbld</odeParentPageId>
+  <pageName>2.1 Sesión 1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1 Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1 Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2ca-g0sl7ke2n</odePageId>
+      <odeBlockId>block-1775045293399-dt77fh2mo</odeBlockId>
+      <blockName>Sesión 1: ¿Qué hacer ante un accidente?</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2ca-g0sl7ke2n</odePageId>
+          <odeBlockId>block-1775045293399-dt77fh2mo</odeBlockId>
+          <odeIdeviceId>idevice-1775045293397-kgn0dsp26</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>¿Qué vamos a hacer?</strong></em><br />En esta primera sesión vamos a empezar a trabajar cómo actuar ante un accidente en bicicleta.</p>
+<p>Analizaremos situaciones reales, identificaremos riesgos y aprenderemos cuáles son las primeras acciones que debemos realizar para garantizar la seguridad del grupo.</p>
+<p>Además, comenzarás a diseñar una infografía con las actuaciones básicas ante una emergencia.</p>
+<p> <br /><em><strong>¿Cómo lo vamos a hacer?</strong></em><br />Trabajaremos de forma práctica y participativa:</p>
+<ul>
+<li>Analizando casos reales o simulados de accidentes<br /></li>
+<li>Debatiendo en grupo qué haríamos en cada situación<br /></li>
+<li>Organizando la información más importante<br /></li>
+</ul>
+<p>Empezando a diseñar la infografía con herramientas digitales<br /> <br /><em><strong>¿Con quién lo vas a hacer?</strong></em></p>
+<ul>
+<li>Trabajarás principalmente en pequeños grupos<br /></li>
+</ul>
+<p>También participaremos en actividades en gran grupo para compartir ideas<br /> <br /><em><strong>Objetivos de la sesión</strong></em><br />Al finalizar la sesión deberías ser capaz de:</p>
+<ul>
+<li>Identificar los principales riesgos en una ruta en bicicleta<br /></li>
+<li>Saber cuál es la primera actuación ante un accidente<br /></li>
+<li>Proponer medidas básicas de seguridad<br /></li>
+<li>Organizar la información para crear una infografía<br /></li>
+<li>Trabajar en equipo de forma activa</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775045293397-kgn0dsp26","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>¿Qué vamos a hacer?</strong></em><br />En esta primera sesión vamos a empezar a trabajar cómo actuar ante un accidente en bicicleta.</p>\n<p>Analizaremos situaciones reales, identificaremos riesgos y aprenderemos cuáles son las primeras acciones que debemos realizar para garantizar la seguridad del grupo.</p>\n<p>Además, comenzarás a diseñar una infografía con las actuaciones básicas ante una emergencia.</p>\n<p> <br /><em><strong>¿Cómo lo vamos a hacer?</strong></em><br />Trabajaremos de forma práctica y participativa:</p>\n<ul>\n<li>Analizando casos reales o simulados de accidentes<br /></li>\n<li>Debatiendo en grupo qué haríamos en cada situación<br /></li>\n<li>Organizando la información más importante<br /></li>\n</ul>\n<p>Empezando a diseñar la infografía con herramientas digitales<br /> <br /><em><strong>¿Con quién lo vas a hacer?</strong></em></p>\n<ul>\n<li>Trabajarás principalmente en pequeños grupos<br /></li>\n</ul>\n<p>También participaremos en actividades en gran grupo para compartir ideas<br /> <br /><em><strong>Objetivos de la sesión</strong></em><br />Al finalizar la sesión deberías ser capaz de:</p>\n<ul>\n<li>Identificar los principales riesgos en una ruta en bicicleta<br /></li>\n<li>Saber cuál es la primera actuación ante un accidente<br /></li>\n<li>Proponer medidas básicas de seguridad<br /></li>\n<li>Organizar la información para crear una infografía<br /></li>\n<li>Trabajar en equipo de forma activa</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mngec2ca-g0sl7ke2n</odePageId>
+      <odeBlockId>block-1775074329977-s7dfgdvxb</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2ca-g0sl7ke2n</odePageId>
+          <odeBlockId>block-1775074329977-s7dfgdvxb</odeBlockId>
+          <odeIdeviceId>idevice-1775074329976-dn8c3b7c8</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-2"><h2 style="display:none;">DUA</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>Sesión 1:</strong> Identificar riesgos y saber cómo actuar ante un accidente.</p></div><article class="exe-udlContent-content-visual js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Apoyo visual</h2></header><p><img src="{{context_path}}/content/resources/Copilot_20260401_222113.png" width="767" height="1151" alt=""></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2cb-425sbvsf9</odePageId>
+  <odeParentPageId>page-mngec2ca-xmjqstbld</odeParentPageId>
+  <pageName>2.2. Sesión 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.2. Sesión 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.2. Sesión 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2cb-425sbvsf9</odePageId>
+      <odeBlockId>block-1775045506366-514gio1bw</odeBlockId>
+      <blockName>Sesión 2: Actuar y comunicar en emergencias</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cb-425sbvsf9</odePageId>
+          <odeBlockId>block-1775045506366-514gio1bw</odeBlockId>
+          <odeIdeviceId>idevice-1775045506365-pz2he30g2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>¿Qué vamos a hacer?</strong></em><br />En esta sesión aprenderás cómo actuar correctamente en una situación de emergencia y cómo comunicarte de forma eficaz con el grupo y con los servicios de ayuda.</p>
+<p>Además, comenzarás a trabajar en la creación de un podcast sobre seguridad en rutas en bicicleta.</p>
+<p> <br /><em><strong>¿Cómo lo vamos a hacer?</strong></em></p>
+<ul>
+<li>Practicaremos protocolos de actuación ante accidentes<br /></li>
+<li>Realizaremos simulaciones (role-playing)<br /></li>
+<li>Prepararás el guion del podcast</li>
+<li>Empezarás a grabar el contenido</li>
+</ul>
+<p> <br /><em><strong>¿Con quién lo vas a hacer?</strong></em></p>
+<ul>
+<li>Trabajarás en pequeños grupos<br /></li>
+<li>Participarás en simulaciones en grupo<br /> </li>
+</ul>
+<p><br /><strong><em>Objetivos de la sesión</em></strong><br />Al finalizar la sesión deberías ser capaz de:</p>
+<ul>
+<li>Aplicar un protocolo básico de actuación en emergencias<br /></li>
+<li>Comunicarte de forma clara en situaciones de riesgo<br /></li>
+<li>Participar en simulaciones de forma activa<br /></li>
+<li>Elaborar un guion para un podcast<br /></li>
+<li>Colaborar con tu equipo</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775045506365-pz2he30g2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>¿Qué vamos a hacer?</strong></em><br />En esta sesión aprenderás cómo actuar correctamente en una situación de emergencia y cómo comunicarte de forma eficaz con el grupo y con los servicios de ayuda.</p>\n<p>Además, comenzarás a trabajar en la creación de un podcast sobre seguridad en rutas en bicicleta.</p>\n<p> <br /><em><strong>¿Cómo lo vamos a hacer?</strong></em></p>\n<ul>\n<li>Practicaremos protocolos de actuación ante accidentes<br /></li>\n<li>Realizaremos simulaciones (role-playing)<br /></li>\n<li>Prepararás el guion del podcast</li>\n<li>Empezarás a grabar el contenido</li>\n</ul>\n<p> <br /><em><strong>¿Con quién lo vas a hacer?</strong></em></p>\n<ul>\n<li>Trabajarás en pequeños grupos<br /></li>\n<li>Participarás en simulaciones en grupo<br /> </li>\n</ul>\n<p><br /><strong><em>Objetivos de la sesión</em></strong><br />Al finalizar la sesión deberías ser capaz de:</p>\n<ul>\n<li>Aplicar un protocolo básico de actuación en emergencias<br /></li>\n<li>Comunicarte de forma clara en situaciones de riesgo<br /></li>\n<li>Participar en simulaciones de forma activa<br /></li>\n<li>Elaborar un guion para un podcast<br /></li>\n<li>Colaborar con tu equipo</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mngec2cb-425sbvsf9</odePageId>
+      <odeBlockId>block-1775075072689-03sy895tq</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cb-425sbvsf9</odePageId>
+          <odeBlockId>block-1775075072689-03sy895tq</odeBlockId>
+          <odeIdeviceId>idevice-1775075072687-53sxzpdca</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-2"><h2 style="display:none;">Dua</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Explicación visual</p></div><article class="exe-udlContent-content-visual js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Apoyo visual</h2></header><p><img src="{{context_path}}/content/resources/Copilot_20260401_222413.png" width="1024" height="1536" alt=""></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2cb-ti9rkyum8</odePageId>
+  <odeParentPageId>page-mngec2ca-xmjqstbld</odeParentPageId>
+  <pageName>2.3. Sesión 3</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.3. Sesión 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.3. Sesión 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.3. Sesión 3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2cb-ti9rkyum8</odePageId>
+      <odeBlockId>block-1775047895664-dlah40fw8</odeBlockId>
+      <blockName>Sesión 3: Tomar decisiones en situaciones reales</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cb-ti9rkyum8</odePageId>
+          <odeBlockId>block-1775047895664-dlah40fw8</odeBlockId>
+          <odeIdeviceId>idevice-1775047895663-7phmv8rlf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong> ¿Qué vamos a hacer?</strong></p>
+<p><br />En esta sesión pondrás en práctica lo aprendido resolviendo situaciones más complejas.</p>
+<p>Finalizarás la infografía y el podcast, y comenzarás a diseñar una jornada ciclista segura.</p>
+<p> <br /><strong> ¿Cómo lo vamos a hacer?</strong></p>
+<ul>
+<li>Resolveremos casos prácticos (accidentes, averías, cambios de condiciones)<br /></li>
+<li>Tomaremos decisiones en grupo<br /></li>
+<li>Terminaremos los productos iniciados</li>
+<li>Empezaremos a planificar la jornada</li>
+</ul>
+<p> <br /><strong> ¿Con quién lo vas a hacer?</strong></p>
+<ul>
+<li>Trabajo en grupo</li>
+<li>Puestas en común con toda la clase</li>
+</ul>
+<p> <br /><strong> Objetivos de la sesión</strong><br />Al finalizar la sesión deberías ser capaz de:</p>
+<ul>
+<li>Tomar decisiones ante situaciones imprevistas<br /></li>
+<li>Aplicar soluciones adecuadas a problemas reales<br /></li>
+<li>Finalizar una infografía clara y útil<br /></li>
+<li>Completar un podcast informativo<br /></li>
+<li>Iniciar el diseño de una actividad ciclista segura</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775047895663-7phmv8rlf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong> ¿Qué vamos a hacer?</strong></p>\n<p><br />En esta sesión pondrás en práctica lo aprendido resolviendo situaciones más complejas.</p>\n<p>Finalizarás la infografía y el podcast, y comenzarás a diseñar una jornada ciclista segura.</p>\n<p> <br /><strong> ¿Cómo lo vamos a hacer?</strong></p>\n<ul>\n<li>Resolveremos casos prácticos (accidentes, averías, cambios de condiciones)<br /></li>\n<li>Tomaremos decisiones en grupo<br /></li>\n<li>Terminaremos los productos iniciados</li>\n<li>Empezaremos a planificar la jornada</li>\n</ul>\n<p> <br /><strong> ¿Con quién lo vas a hacer?</strong></p>\n<ul>\n<li>Trabajo en grupo</li>\n<li>Puestas en común con toda la clase</li>\n</ul>\n<p> <br /><strong> Objetivos de la sesión</strong><br />Al finalizar la sesión deberías ser capaz de:</p>\n<ul>\n<li>Tomar decisiones ante situaciones imprevistas<br /></li>\n<li>Aplicar soluciones adecuadas a problemas reales<br /></li>\n<li>Finalizar una infografía clara y útil<br /></li>\n<li>Completar un podcast informativo<br /></li>\n<li>Iniciar el diseño de una actividad ciclista segura</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mngec2cb-ti9rkyum8</odePageId>
+      <odeBlockId>block-1775075352438-huvrbpb7x</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cb-ti9rkyum8</odePageId>
+          <odeBlockId>block-1775075352438-huvrbpb7x</odeBlockId>
+          <odeIdeviceId>idevice-1775075352433-4x78hvpi9</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-2"><h2 style="display:none;">Dua</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Explicación visual.</p></div><article class="exe-udlContent-content-visual js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Apoyo visual</h2></header><p><img src="{{context_path}}/content/resources/Copilot_20260401_222859.png" width="1024" height="1536" alt=""></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2cb-0rquo36mx</odePageId>
+  <odeParentPageId>page-mngec2ca-xmjqstbld</odeParentPageId>
+  <pageName>2.4. Sesión 4</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.4. Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.4. Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2cb-0rquo36mx</odePageId>
+      <odeBlockId>block-1775050870715-58308win0</odeBlockId>
+      <blockName>Sesión 4: Diseñar y presentar una jornada segura</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cb-0rquo36mx</odePageId>
+          <odeBlockId>block-1775050870715-58308win0</odeBlockId>
+          <odeIdeviceId>idevice-1775050870714-sb0luw462</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Qué vamos a hacer?</strong></p>
+<p><br />En esta última sesión diseñarás una jornada ciclista completa y presentarás todos los trabajos realizados.</p>
+<p> <br /><strong>¿Cómo lo vamos a hacer?</strong></p>
+<ul>
+<li>Definirás las medidas de seguridad de la jornada</li>
+<li>Prepararás la presentación final</li>
+<li>Expondrás tu trabajo al grupo</li>
+<li>Participarás en la evaluación y reflexión final<br /> </li>
+</ul>
+<p><strong>¿Con quién lo vas a hacer?</strong></p>
+<ul>
+<li>Trabajo en grupo</li>
+<li>Presentaciones en gran grupo</li>
+</ul>
+<p> <br /><strong>Objetivos de la sesión</strong><br />Al finalizar la sesión deberías ser capaz de:</p>
+<ul>
+<li>Diseñar una actividad ciclista segura<br /></li>
+<li>Aplicar medidas de prevención y actuación<br /></li>
+<li>Presentar tu trabajo de forma clara<br /></li>
+<li>Reflexionar sobre lo aprendido<br /></li>
+<li>Valorar el trabajo en equipo</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775050870714-sb0luw462","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Qué vamos a hacer?</strong></p>\n<p><br />En esta última sesión diseñarás una jornada ciclista completa y presentarás todos los trabajos realizados.</p>\n<p> <br /><strong>¿Cómo lo vamos a hacer?</strong></p>\n<ul>\n<li>Definirás las medidas de seguridad de la jornada</li>\n<li>Prepararás la presentación final</li>\n<li>Expondrás tu trabajo al grupo</li>\n<li>Participarás en la evaluación y reflexión final<br /> </li>\n</ul>\n<p><strong>¿Con quién lo vas a hacer?</strong></p>\n<ul>\n<li>Trabajo en grupo</li>\n<li>Presentaciones en gran grupo</li>\n</ul>\n<p> <br /><strong>Objetivos de la sesión</strong><br />Al finalizar la sesión deberías ser capaz de:</p>\n<ul>\n<li>Diseñar una actividad ciclista segura<br /></li>\n<li>Aplicar medidas de prevención y actuación<br /></li>\n<li>Presentar tu trabajo de forma clara<br /></li>\n<li>Reflexionar sobre lo aprendido<br /></li>\n<li>Valorar el trabajo en equipo</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mngec2cb-0rquo36mx</odePageId>
+      <odeBlockId>block-1775075553821-xzmcoannq</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cb-0rquo36mx</odePageId>
+          <odeBlockId>block-1775075553821-xzmcoannq</odeBlockId>
+          <odeIdeviceId>idevice-1775075553815-sg0899phd</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-2"><h2 style="display:none;">DUA</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Explicación visual.</p></div><article class="exe-udlContent-content-visual js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Apoyo visual</h2></header><p><img src="{{context_path}}/content/resources/Copilot_20260401_223223.png" width="1024" height="1536" alt=""></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2cb-luuknznnj</odePageId>
+  <odeParentPageId>page-mngec2c7-hsjn6rxcp</odeParentPageId>
+  <pageName>3. Materiales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Materiales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Materiales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2cb-luuknznnj</odePageId>
+      <odeBlockId>block-1775051113927-f9a9kr5l1</odeBlockId>
+      <blockName>¿Qué encontramos en esta sección?</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cb-luuknznnj</odePageId>
+          <odeBlockId>block-1775051113927-f9a9kr5l1</odeBlockId>
+          <odeIdeviceId>idevice-1775051113925-1dw5sakhm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se presentan algunos materiales que servirán para conocer como prevenir accidentes  y como actuar en caso de que ocurran. También encontrarás guías para poder generar los productos que se solicitan en esta situación de aprendizaje. </p>
+<p><strong>1.Presentación supervivencia y mecánica en accidentes MTB</strong> </p>
+<p><a href="https://educastur-my.sharepoint.com/:b:/g/personal/franciscsga_educastur_org/IQCkCijBGS30QocoSUPA2r2_ATTtLd5kuM38lotozY49_3Y?e=JYxVg0" title="">Pincha aquí</a></p>
+<p><strong>2. Circulación segura en grupo.</strong> </p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/1nIfRRHXLz0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>3. Acciones legales en accidentes de bicicleta.</strong> </p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/sXMapujTzlA" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>4. Crear una infografía. </strong></p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/hgTxBYNlbT0" allowfullscreen="allowfullscreen"></iframe> </p>
+<p><strong>6. Crear un videopodcast</strong></p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/SYcylwsbG94" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775051113925-1dw5sakhm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se presentan algunos materiales que servirán para conocer como prevenir accidentes  y como actuar en caso de que ocurran. También encontrarás guías para poder generar los productos que se solicitan en esta situación de aprendizaje. </p>\n<p><strong>1.Presentación supervivencia y mecánica en accidentes MTB</strong> </p>\n<p><a href=\"https://educastur-my.sharepoint.com/:b:/g/personal/franciscsga_educastur_org/IQCkCijBGS30QocoSUPA2r2_ATTtLd5kuM38lotozY49_3Y?e=JYxVg0\" title=\"\">Pincha aquí</a></p>\n<p><strong>2. Circulación segura en grupo.</strong> </p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/1nIfRRHXLz0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><strong>3. Acciones legales en accidentes de bicicleta.</strong> </p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/sXMapujTzlA\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><strong>4. Crear una infografía. </strong></p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/hgTxBYNlbT0\" allowfullscreen=\"allowfullscreen\"></iframe> </p>\n<p><strong>6. Crear un videopodcast</strong></p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/SYcylwsbG94\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mngec2cb-luuknznnj</odePageId>
+      <odeBlockId>block-1775075629345-2nxs8belk</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cb-luuknznnj</odePageId>
+          <odeBlockId>block-1775075629345-2nxs8belk</odeBlockId>
+          <odeIdeviceId>idevice-1775075629343-r0s2he4mv</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-2"><h2 style="display:none;">DUA</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Explicación simplificada de materiales.&nbsp;</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p>Material 1: presentación para saber que llevar en la mochila para una emergencia y como actuar.&nbsp;</p>
+<p>Material 2: Recomendaciones para ir seguro en grupo.&nbsp;</p>
+<p>Material 3: explicación trámites legales de accidentes.&nbsp;</p>
+<p>Material 4: Explicación visual para crea una infografía (Tarea a realizar)</p>
+<p>Material 5: Explicación visual para crea un videopodcast (Tarea a realizar)</p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2cc-lcx6cte3e</odePageId>
+  <odeParentPageId>page-mngec2c7-hsjn6rxcp</odeParentPageId>
+  <pageName>4. Actividades</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2cc-lcx6cte3e</odePageId>
+      <odeBlockId>block-1775055101095-w6zmznjnc</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cc-lcx6cte3e</odePageId>
+          <odeBlockId>block-1775055101095-w6zmznjnc</odeBlockId>
+          <odeIdeviceId>idevice-1775055101088-ughstadyw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las actividades de esta unidad están pensadas para que aprendas a actuar en situaciones reales que pueden ocurrir durante una ruta en bicicleta.</p>
+<p>A través de casos prácticos, simulaciones y la creación de productos como una infografía, un podcast o una jornada ciclista, podrás aplicar lo aprendido y desarrollar habilidades clave como la toma de decisiones, la seguridad y el trabajo en equipo.</p>
+<p>👉 El objetivo no es solo saber qué hacer, sino ser capaz de actuar con seguridad y confianza en situaciones reales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775055101088-ughstadyw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las actividades de esta unidad están pensadas para que aprendas a actuar en situaciones reales que pueden ocurrir durante una ruta en bicicleta.</p>\n<p>A través de casos prácticos, simulaciones y la creación de productos como una infografía, un podcast o una jornada ciclista, podrás aplicar lo aprendido y desarrollar habilidades clave como la toma de decisiones, la seguridad y el trabajo en equipo.</p>\n<p>👉 El objetivo no es solo saber qué hacer, sino ser capaz de actuar con seguridad y confianza en situaciones reales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mngec2cc-lcx6cte3e</odePageId>
+      <odeBlockId>block-1775076108531-e5ndm8cqk</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cc-lcx6cte3e</odePageId>
+          <odeBlockId>block-1775076108531-e5ndm8cqk</odeBlockId>
+          <odeIdeviceId>idevice-1775076108530-ask8u8r05</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-2"><h2 style="display:none;">DUA</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Resumen visual</p></div><article class="exe-udlContent-content-visual js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Apoyo visual</h2></header><p><img src="{{context_path}}/content/resources/Copilot_20260401_224138.png" width="767" height="1151" alt=""></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2cc-6o3ru9hqh</odePageId>
+  <odeParentPageId>page-mngec2cc-lcx6cte3e</odeParentPageId>
+  <pageName>Actividad 1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2cc-6o3ru9hqh</odePageId>
+      <odeBlockId>block-1775053288928-fm9x2qfs1</odeBlockId>
+      <blockName>¿Qué hacer ante un accidente?</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cc-6o3ru9hqh</odePageId>
+          <odeBlockId>block-1775053288928-fm9x2qfs1</odeBlockId>
+          <odeIdeviceId>idevice-1775053288925-ei96fxfzm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Descripción: </strong></p>
+<p>Analiza una situación de accidente en bicicleta y determina las actuaciones correctas.</p>
+<p><strong>Tarea:</strong><br />En grupo, elaborad un esquema con los pasos a seguir ante un accidente.</p>
+<p><strong>Herramienta digital</strong>: Canva o Genially<br /><strong>Entrega</strong>: Imagen o PDF</p>
+<p><strong>Casos: </strong></p>
+<p>🧩 Caso 1: Caída leve en pista<br />Un miembro del grupo se cae en una pista forestal. Tiene raspaduras en brazos y piernas, pero está consciente y puede moverse.</p>
+<p>👉 ¿Qué harías?</p>
+<p> <br />🧩 Caso 2: Caída con posible lesión grave<br />Durante una bajada, un ciclista se cae y no puede levantarse. Se queja de dolor en la espalda y no puede moverse.</p>
+<p>👉 ¿Cómo actuarías?</p>
+<p> <br />🧩 Caso 3: Pinchazo en mitad de la ruta<br />Un participante sufre un pinchazo y no dispone de material para repararlo. El grupo está en una zona alejada.</p>
+<p>👉 ¿Qué decisiones tomarías?</p>
+<p> <br />🧩 Caso 4: Desorientación del grupo<br />El grupo pierde la ruta señalizada y no sabe cómo volver al itinerario correcto.</p>
+<p>👉 ¿Cómo actuarías como guía?</p>
+<p> <br />🧩 Caso 5: Condiciones meteorológicas adversas<br />Comienza una tormenta fuerte durante la ruta (lluvia intensa y viento).</p>
+<p>👉 ¿Qué medidas tomarías?</p>
+<p> <br />🧩 Caso 6: Problema de salud (fatiga o deshidratación)<br />Una persona del grupo empieza a sentirse mareada y muy cansada, mostrando signos de deshidratación.</p>
+<p>👉 ¿Cómo actuarías?</p>
+<p> <br />🧩 Caso 7: Separación del grupo<br />Parte del grupo se ha adelantado demasiado y se pierde el contacto visual.</p>
+<p>👉 ¿Qué harías para solucionar la situación?</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775053288925-ei96fxfzm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Descripción: </strong></p>\n<p>Analiza una situación de accidente en bicicleta y determina las actuaciones correctas.</p>\n<p><strong>Tarea:</strong><br />En grupo, elaborad un esquema con los pasos a seguir ante un accidente.</p>\n<p><strong>Herramienta digital</strong>: Canva o Genially<br /><strong>Entrega</strong>: Imagen o PDF</p>\n<p><strong>Casos: </strong></p>\n<p>🧩 Caso 1: Caída leve en pista<br />Un miembro del grupo se cae en una pista forestal. Tiene raspaduras en brazos y piernas, pero está consciente y puede moverse.</p>\n<p>👉 ¿Qué harías?</p>\n<p> <br />🧩 Caso 2: Caída con posible lesión grave<br />Durante una bajada, un ciclista se cae y no puede levantarse. Se queja de dolor en la espalda y no puede moverse.</p>\n<p>👉 ¿Cómo actuarías?</p>\n<p> <br />🧩 Caso 3: Pinchazo en mitad de la ruta<br />Un participante sufre un pinchazo y no dispone de material para repararlo. El grupo está en una zona alejada.</p>\n<p>👉 ¿Qué decisiones tomarías?</p>\n<p> <br />🧩 Caso 4: Desorientación del grupo<br />El grupo pierde la ruta señalizada y no sabe cómo volver al itinerario correcto.</p>\n<p>👉 ¿Cómo actuarías como guía?</p>\n<p> <br />🧩 Caso 5: Condiciones meteorológicas adversas<br />Comienza una tormenta fuerte durante la ruta (lluvia intensa y viento).</p>\n<p>👉 ¿Qué medidas tomarías?</p>\n<p> <br />🧩 Caso 6: Problema de salud (fatiga o deshidratación)<br />Una persona del grupo empieza a sentirse mareada y muy cansada, mostrando signos de deshidratación.</p>\n<p>👉 ¿Cómo actuarías?</p>\n<p> <br />🧩 Caso 7: Separación del grupo<br />Parte del grupo se ha adelantado demasiado y se pierde el contacto visual.</p>\n<p>👉 ¿Qué harías para solucionar la situación?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2cd-oycn8423j</odePageId>
+  <odeParentPageId>page-mngec2cc-6o3ru9hqh</odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2cd-oycn8423j</odePageId>
+      <odeBlockId>block-1775055523863-yq0anssut</odeBlockId>
+      <blockName>Instrumento de evaluación</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cd-oycn8423j</odePageId>
+          <odeBlockId>block-1775055523863-yq0anssut</odeBlockId>
+          <odeIdeviceId>idevice-1775055523855-bckq4r9ii</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la evaluación de la tarea se utilizará la siguiente lista de cotejo: </p>
+<p><a href="https://educastur-my.sharepoint.com/:b:/g/personal/franciscsga_educastur_org/IQCPNJfFGGiRQpEpdjeg2-K6AS-ZmJQF6rovRsfzdlbWZSU?e=5ybui2" title="">Pincha aquí.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775055523855-bckq4r9ii","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la evaluación de la tarea se utilizará la siguiente lista de cotejo: </p>\n<p><a href=\"https://educastur-my.sharepoint.com/:b:/g/personal/franciscsga_educastur_org/IQCPNJfFGGiRQpEpdjeg2-K6AS-ZmJQF6rovRsfzdlbWZSU?e=5ybui2\" title=\"\">Pincha aquí.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2cd-ggftz6tbm</odePageId>
+  <odeParentPageId>page-mngec2cc-lcx6cte3e</odeParentPageId>
+  <pageName>Actividad 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2cd-ggftz6tbm</odePageId>
+      <odeBlockId>block-1775053561718-yt7cr1zl3</odeBlockId>
+      <blockName>Creación Infografía</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cd-ggftz6tbm</odePageId>
+          <odeBlockId>block-1775053561718-yt7cr1zl3</odeBlockId>
+          <odeIdeviceId>idevice-1775053561715-zgjn3n3rm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Descripción: </strong></p>
+<p>Diseñad una infografía sobre cómo actuar ante un accidente en bicicleta.</p>
+<p>(Grupos de 3)</p>
+<p><strong>Aspectos relevantes a incluir: </strong></p>
+<p>Evaluación de la situación<br />Actuación inicial<br />Medidas de seguridad</p>
+<p><strong>Herramienta digita</strong>l: Canva<br /><strong>Entrega</strong>: Archivo PDF o imagen</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775053561715-zgjn3n3rm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Descripción: </strong></p>\n<p>Diseñad una infografía sobre cómo actuar ante un accidente en bicicleta.</p>\n<p>(Grupos de 3)</p>\n<p><strong>Aspectos relevantes a incluir: </strong></p>\n<p>Evaluación de la situación<br />Actuación inicial<br />Medidas de seguridad</p>\n<p><strong>Herramienta digita</strong>l: Canva<br /><strong>Entrega</strong>: Archivo PDF o imagen</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2cd-axfby1hlb</odePageId>
+  <odeParentPageId>page-mngec2cd-ggftz6tbm</odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2cd-axfby1hlb</odePageId>
+      <odeBlockId>block-1775055935223-frvrcbi7g</odeBlockId>
+      <blockName>Diana evaluación</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cd-axfby1hlb</odePageId>
+          <odeBlockId>block-1775055935223-frvrcbi7g</odeBlockId>
+          <odeIdeviceId>idevice-1775055935221-dukgluzl5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la evaluación de la infografía se utilizará la siguiente diana de evaluación: </p>
+<p><a href="https://educastur-my.sharepoint.com/:b:/g/personal/franciscsga_educastur_org/IQABBMLH6fkeR6-BqUvUtC6IAY7TdolU0vQa2bHdMVp-V-o?e=Erkgbi" title="">Pincha aquí.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775055935221-dukgluzl5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la evaluación de la infografía se utilizará la siguiente diana de evaluación: </p>\n<p><a href=\"https://educastur-my.sharepoint.com/:b:/g/personal/franciscsga_educastur_org/IQABBMLH6fkeR6-BqUvUtC6IAY7TdolU0vQa2bHdMVp-V-o?e=Erkgbi\" title=\"\">Pincha aquí.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2cd-2c3o5y1im</odePageId>
+  <odeParentPageId>page-mngec2cc-lcx6cte3e</odeParentPageId>
+  <pageName>Actividad 3</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2cd-2c3o5y1im</odePageId>
+      <odeBlockId>block-1775053758805-3ovjjrkxv</odeBlockId>
+      <blockName>Podcast de seguridad</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cd-2c3o5y1im</odePageId>
+          <odeBlockId>block-1775053758805-3ovjjrkxv</odeBlockId>
+          <odeIdeviceId>idevice-1775053758803-yd4jbn3i2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Descripción: </strong></p>
+<p>Realizad un podcast con entrevistas e información sobre seguridad en rutas en bicicleta. (grupos de 6)</p>
+<p><strong>Pasos a seguir:</strong> </p>
+<ul>
+<li>Elaborar un guion<br /></li>
+<li>Realizar entrevistas<br /></li>
+<li>Grabar y editar el audio</li>
+</ul>
+<p><strong>Herramienta digital:</strong> Audacity o dispositivo móvil<br /><strong>Entrega:</strong> Archivo de audio</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775053758803-yd4jbn3i2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Descripción: </strong></p>\n<p>Realizad un podcast con entrevistas e información sobre seguridad en rutas en bicicleta. (grupos de 6)</p>\n<p><strong>Pasos a seguir:</strong> </p>\n<ul>\n<li>Elaborar un guion<br /></li>\n<li>Realizar entrevistas<br /></li>\n<li>Grabar y editar el audio</li>\n</ul>\n<p><strong>Herramienta digital:</strong> Audacity o dispositivo móvil<br /><strong>Entrega:</strong> Archivo de audio</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2ce-aenbq775x</odePageId>
+  <odeParentPageId>page-mngec2cd-2c3o5y1im</odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2ce-aenbq775x</odePageId>
+      <odeBlockId>block-1775056086502-736ke0ct3</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2ce-aenbq775x</odePageId>
+          <odeBlockId>block-1775056086502-736ke0ct3</odeBlockId>
+          <odeIdeviceId>idevice-1775056086501-69j0bobr1</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table class='exe-table'><caption>Rúbrica de ejemplo (4x4)</caption><thead><tr><th>&nbsp;</th><th>EXCELENTE</th><th>BIEN</th><th>EN PROCESO</th><th>INICIAL</th></tr></thead><tbody><tr><th>Contenido</th><td>Información completa, precisa y muy relevante sobre seguridad <span>(1,45)</span></td><td>Información correcta y suficiente <span>(1.05)</span></td><td>Información incompleta o poco clara <span>(0,7)</span></td><td>Información escasa o incorrecta <span>(0.35)</span></td></tr><tr><th>Estructura</th><td>Muy bien organizado, con introducción, desarrollo y cierre claros <span>(1,45)</span></td><td>Organización adecuada <span>(1.05)</span></td><td>Organización poco clara <span>(0.7)</span></td><td>Sin estructura definida <span>(0.35)</span></td></tr><tr><th>Audio</th><td>Sonido claro, sin ruidos y bien editado <span>(1,45)</span></td><td>Sonido adecuado con pequeños fallos <span>(1.05)</span></td><td>Sonido irregular o con ruidos <span>(0.7)</span></td><td>Difícil de escuchar <span>(0.35)</span></td></tr><tr><th>Guión</th><td>Lenguaje claro, fluido y adecuado <span>(1,45)</span></td><td>Comunicación comprensible <span>(1.05)</span></td><td>Dificultades en la expresión <span>(0.7)</span></td><td>Comunicación poco clara <span>(0.35)</span></td></tr><tr><th>Entrevista</th><td>Preguntas bien formuladas y relevantes <span>(1.45)</span></td><td>Preguntas adecuadas <span>(1.05)</span></td><td>Preguntas poco elaboradas <span>(0.7)</span></td><td>Sin estructura o poco relevantes <span>(0.35)</span></td></tr><tr><th>Herramientas digitales</th><td>Manejo excelente de la herramienta de grabación/edición <span>(1.45)</span></td><td>Uso correcto <span>(1.05)</span></td><td>Uso básico con dificultades <span>(0.7)</span></td><td>Uso inadecuado <span>(0.35)</span></td></tr><tr><th>Trabajo en equipo</th><td>Excelente coordinación y participación de todo el grupo <span>(1.3)</span></td><td>Buena participación <span>(0.95)</span></td><td>Participación desigual <span>(0.6)</span></td><td>Escasa colaboración <span>(0,25)</span></td></tr></tbody></table><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2ce-y4b4t1fw3</odePageId>
+  <odeParentPageId>page-mngec2cc-lcx6cte3e</odeParentPageId>
+  <pageName>Actividad 4</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2ce-y4b4t1fw3</odePageId>
+      <odeBlockId>block-1775053957493-fdgn4zs7m</odeBlockId>
+      <blockName>Día de la bicicleta</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2ce-y4b4t1fw3</odePageId>
+          <odeBlockId>block-1775053957493-fdgn4zs7m</odeBlockId>
+          <odeIdeviceId>idevice-1775053957490-2r25o2gd2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Descripción: </strong></p>
+<p>Organizad una jornada ciclista segura. (Gran grupo)</p>
+<p><strong>Tarea:</strong><br /></p>
+<ul>
+<li>Medidas de seguridad primarias<br /></li>
+<li>Medidas de seguridad secundarias<br /></li>
+<li>Medidas de seguridad terciarias</li>
+</ul>
+<p><strong>Herramienta digital</strong>: Documento digital o Canva<br /><strong>Entrega</strong>: Documento o presentación</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775053957490-2r25o2gd2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Descripción: </strong></p>\n<p>Organizad una jornada ciclista segura. (Gran grupo)</p>\n<p><strong>Tarea:</strong><br /></p>\n<ul>\n<li>Medidas de seguridad primarias<br /></li>\n<li>Medidas de seguridad secundarias<br /></li>\n<li>Medidas de seguridad terciarias</li>\n</ul>\n<p><strong>Herramienta digital</strong>: Documento digital o Canva<br /><strong>Entrega</strong>: Documento o presentación</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2ce-2isghr8h1</odePageId>
+  <odeParentPageId>page-mngec2ce-y4b4t1fw3</odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2ce-2isghr8h1</odePageId>
+      <odeBlockId>block-1775056981371-crctooctg</odeBlockId>
+      <blockName>Lista cotejo evaluación día de la bicicleta</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2ce-2isghr8h1</odePageId>
+          <odeBlockId>block-1775056981371-crctooctg</odeBlockId>
+          <odeIdeviceId>idevice-1775056981370-f5dg1ljqf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.037%; height: 696.8px;">
+<tbody>
+<tr style="height: 56.8px;">
+<td style="width: 48.3091%; height: 56.8px; border-color: #000000; border-style: double;"><strong>Criterios</strong></td>
+<td style="width: 11.8538%; height: 56.8px; text-align: center; border-color: #000000; border-style: double;"><strong>Siempre</strong></td>
+<td style="width: 14.8093%; height: 56.8px; text-align: center; border-color: #000000; border-style: double;"><strong>Casi siempre</strong></td>
+<td style="width: 12.9582%; height: 56.8px; text-align: center; border-color: #000000; border-style: double;"><strong>Casi nunca</strong></td>
+<td style="width: 12.0326%; height: 56.8px; text-align: center; border-color: #000000; border-style: double;"><strong>Nunca</strong></td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 48.3091%; height: 80.8px; border-color: #000000; border-style: double;">Define medidas de seguridad primarias adecuadas</td>
+<td style="width: 11.8538%; height: 80.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 14.8093%; height: 80.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.9582%; height: 80.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.0326%; height: 80.8px; border-color: #000000; border-style: double;"><br /></td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 48.3091%; height: 56.8px; border-color: #000000; border-style: double;">Incluye medidas de seguridad secundarias</td>
+<td style="width: 11.8538%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 14.8093%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.9582%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.0326%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 48.3091%; height: 56.8px; border-color: #000000; border-style: double;">Incorpora medidas de seguridad terciarias</td>
+<td style="width: 11.8538%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 14.8093%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.9582%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.0326%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 48.3091%; height: 80.8px; border-color: #000000; border-style: double;">Organiza correctamente la actividad (espacios, recorrido, tiempos)</td>
+<td style="width: 11.8538%; height: 80.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 14.8093%; height: 80.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.9582%; height: 80.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.0326%; height: 80.8px; border-color: #000000; border-style: double;"><br /></td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 48.3091%; height: 56.8px; border-color: #000000; border-style: double;">Tiene en cuenta posibles riesgos y su prevención</td>
+<td style="width: 11.8538%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 14.8093%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.9582%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.0326%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 48.3091%; height: 56.8px; border-color: #000000; border-style: double;">Propone soluciones ante posibles incidencias</td>
+<td style="width: 11.8538%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 14.8093%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.9582%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.0326%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 48.3091%; height: 56.8px; border-color: #000000; border-style: double;">Presenta la información de forma clara y ordenada</td>
+<td style="width: 11.8538%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 14.8093%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.9582%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.0326%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 48.3091%; height: 56.8px; border-color: #000000; border-style: double;">Utiliza adecuadamente herramientas digitales</td>
+<td style="width: 11.8538%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 14.8093%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.9582%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.0326%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 48.3091%; height: 56.8px; border-color: #000000; border-style: double;">Participa activamente en el trabajo en grupo</td>
+<td style="width: 11.8538%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 14.8093%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.9582%; height: 56.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.0326%; height: 56.8px; border-color: #000000; border-style: double;"></td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 48.3091%; height: 80.8px; border-color: #000000; border-style: double;">Muestra responsabilidad en la planificación de la actividad</td>
+<td style="width: 11.8538%; height: 80.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 14.8093%; height: 80.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.9582%; height: 80.8px; border-color: #000000; border-style: double;"><br /></td>
+<td style="width: 12.0326%; height: 80.8px; border-color: #000000; border-style: double;"><br /></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775056981370-f5dg1ljqf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.037%; height: 696.8px;\">\n<tbody>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 48.3091%; height: 56.8px; border-color: #000000; border-style: double;\"><strong>Criterios</strong></td>\n<td style=\"width: 11.8538%; height: 56.8px; text-align: center; border-color: #000000; border-style: double;\"><strong>Siempre</strong></td>\n<td style=\"width: 14.8093%; height: 56.8px; text-align: center; border-color: #000000; border-style: double;\"><strong>Casi siempre</strong></td>\n<td style=\"width: 12.9582%; height: 56.8px; text-align: center; border-color: #000000; border-style: double;\"><strong>Casi nunca</strong></td>\n<td style=\"width: 12.0326%; height: 56.8px; text-align: center; border-color: #000000; border-style: double;\"><strong>Nunca</strong></td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 48.3091%; height: 80.8px; border-color: #000000; border-style: double;\">Define medidas de seguridad primarias adecuadas</td>\n<td style=\"width: 11.8538%; height: 80.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 14.8093%; height: 80.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.9582%; height: 80.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.0326%; height: 80.8px; border-color: #000000; border-style: double;\"><br /></td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 48.3091%; height: 56.8px; border-color: #000000; border-style: double;\">Incluye medidas de seguridad secundarias</td>\n<td style=\"width: 11.8538%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 14.8093%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.9582%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.0326%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 48.3091%; height: 56.8px; border-color: #000000; border-style: double;\">Incorpora medidas de seguridad terciarias</td>\n<td style=\"width: 11.8538%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 14.8093%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.9582%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.0326%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 48.3091%; height: 80.8px; border-color: #000000; border-style: double;\">Organiza correctamente la actividad (espacios, recorrido, tiempos)</td>\n<td style=\"width: 11.8538%; height: 80.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 14.8093%; height: 80.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.9582%; height: 80.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.0326%; height: 80.8px; border-color: #000000; border-style: double;\"><br /></td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 48.3091%; height: 56.8px; border-color: #000000; border-style: double;\">Tiene en cuenta posibles riesgos y su prevención</td>\n<td style=\"width: 11.8538%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 14.8093%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.9582%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.0326%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 48.3091%; height: 56.8px; border-color: #000000; border-style: double;\">Propone soluciones ante posibles incidencias</td>\n<td style=\"width: 11.8538%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 14.8093%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.9582%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.0326%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 48.3091%; height: 56.8px; border-color: #000000; border-style: double;\">Presenta la información de forma clara y ordenada</td>\n<td style=\"width: 11.8538%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 14.8093%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.9582%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.0326%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 48.3091%; height: 56.8px; border-color: #000000; border-style: double;\">Utiliza adecuadamente herramientas digitales</td>\n<td style=\"width: 11.8538%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 14.8093%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.9582%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.0326%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 48.3091%; height: 56.8px; border-color: #000000; border-style: double;\">Participa activamente en el trabajo en grupo</td>\n<td style=\"width: 11.8538%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 14.8093%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.9582%; height: 56.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.0326%; height: 56.8px; border-color: #000000; border-style: double;\"></td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 48.3091%; height: 80.8px; border-color: #000000; border-style: double;\">Muestra responsabilidad en la planificación de la actividad</td>\n<td style=\"width: 11.8538%; height: 80.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 14.8093%; height: 80.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.9582%; height: 80.8px; border-color: #000000; border-style: double;\"><br /></td>\n<td style=\"width: 12.0326%; height: 80.8px; border-color: #000000; border-style: double;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2cf-dvu1rxqzk</odePageId>
+  <odeParentPageId>page-mngec2cc-lcx6cte3e</odeParentPageId>
+  <pageName>Repaso</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Repaso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Repaso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2cf-dvu1rxqzk</odePageId>
+      <odeBlockId>block-1775054118687-3bvwflb7l</odeBlockId>
+      <blockName>Buscar palabras</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cf-dvu1rxqzk</odePageId>
+          <odeBlockId>block-1775054118687-3bvwflb7l</odeBlockId>
+          <odeIdeviceId>idevice-1775054118686-zhwlfmbnd</odeIdeviceId>
+          <odeIdeviceTypeName>word-search</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="sopa-IDevice">
+        <div class="game-evaluation-ids js-hidden" data-id="idevice-1775054118686-zhwlfmbnd" data-evaluationb="false" data-evaluationid="7b24ddf1-364e-4a62-9b4f-8e54f6568279"></div>
+                <div class="sopa-version js-hidden">2</div>
+                 <div class="sopa-instructions"><p>Hallar las palabras ocultas.</p></div>
+                <div class="sopa-feedback-game"></div>              
+                <div class="sopa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%FD%E2%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DA%F3%FE%FE%F3%E0%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%FD%F1%E7%FE%E6%F3%E1%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E5%FD%E0%F6%B0%A8%B0%D7%E4%F3%FE%E7%F3%E0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C2%E0%FB%FF%F7%E0%F3%B2%F3%F1%E6%E7%F3%F1%FBa%FC%B2%F3%FC%E6%F7%B2%E7%FC%B2%F3%F1%F1%FB%F6%F7%FC%E6%F7%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C2%E0%FD%E6%F7%F5%F7%E0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C1%FB%B2%FA%F3%EB%B2%E2%F7%FE%FB%F5%E0%FD%B2%FA%F3%EB%B2%E3%E7%F7%BC%BC%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D5%E7%7F%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D6%FB%E0%FB%F5%F7%B2%F3%FE%B2%F5%E0%E7%E2%FD%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%F6%FB%F3%F5%FD%FC%F3%FE%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E0%F7%E4%F7%E0%E1%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C0%F7%E1%FD%FE%E4%F7%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A5%F0%A0%A6%F6%F6%F4%A3%BF%A1%A4%A6%F7%BF%A6%F3%A4%A0%BF%AB%F0%A6%F4%BF%AA%F7%A7%A6%F4%A4%A7%A4%AA%A0%A5%AB%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A7%A2%A7%A6%A3%A3%AA%A4%AA%A4%BF%E8%FA%E5%FE%F4%FF%F0%FC%F6%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C5%FD%E0%F6%E1%D4%FB%FC%F6%B0%A8%B0%DA%F3%E1%B2%F7%FC%F1%FD%FC%E6%E0%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%DB%FC%FB%F1%FB%F3%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%BC%BC%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B0%D7%FE%B2%F8%E7%F7%F5%FD%B2%EB%F3%B2%FA%F3%B2%F1%FD%FF%F7%FC%E8%F3%F6%FD%BC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D3%F1%F3%F0a%B2%F7%FE%B2%E6%FB%F7%FF%E2%FD%B2%F6%F7%B2%F8%E7%F7%F5%FD%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%B0%A8%B0%D4%FB%FC%F3%FE%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%DF%B0%A8%B0%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%DF%F3%FC%EB%C5%FD%E0%F6%B0%A8%B0%DB%FC%E6%F7%FC%E6%F3%B2%F1%FD%FC%B2%FF%F7%FC%FD%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D0%E7%E1%F1%F3%E0%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%EF%EF</div>
+                
+                
+                
+                <div class="sopa-bns js-hidden">Su navegador no es compatible con esta herramienta.</div>
+                </div> ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2cf-jnbzdhkps</odePageId>
+  <odeParentPageId>page-mngec2c7-hsjn6rxcp</odeParentPageId>
+  <pageName>5. Diseño Universal Aprendizaje</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Diseño Universal Aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Diseño Universal Aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2cf-jnbzdhkps</odePageId>
+      <odeBlockId>block-1775057356531-7i79hgxn4</odeBlockId>
+      <blockName>Aplicación del DUA</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cf-jnbzdhkps</odePageId>
+          <odeBlockId>block-1775057356531-7i79hgxn4</odeBlockId>
+          <odeIdeviceId>idevice-1775057356529-ak4t1w8dx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se basa en el Diseño Universal para el Aprendizaje (DUA), ofreciendo diferentes formas de participación y aprendizaje.</p>
+<p>Se combinan actividades prácticas, trabajo en grupo y uso de herramientas digitales, permitiendo que todo el alumnado pueda implicarse según sus capacidades y ritmos.</p>
+<p>El alumnado puede demostrar su aprendizaje mediante diferentes productos, como infografías, podcast o diseño de actividades.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775057356529-ak4t1w8dx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se basa en el Diseño Universal para el Aprendizaje (DUA), ofreciendo diferentes formas de participación y aprendizaje.</p>\n<p>Se combinan actividades prácticas, trabajo en grupo y uso de herramientas digitales, permitiendo que todo el alumnado pueda implicarse según sus capacidades y ritmos.</p>\n<p>El alumnado puede demostrar su aprendizaje mediante diferentes productos, como infografías, podcast o diseño de actividades.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mngec2cg-0mcec0oa8</odePageId>
+  <odeParentPageId>page-mngec2c7-hsjn6rxcp</odeParentPageId>
+  <pageName>6.autoria y evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.autoria y evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.autoria y evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mngec2cg-0mcec0oa8</odePageId>
+      <odeBlockId>block-1775059902315-6a4t5rcnl</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mngec2cg-0mcec0oa8</odePageId>
+          <odeBlockId>block-1775059902315-6a4t5rcnl</odeBlockId>
+          <odeIdeviceId>idevice-1775059902314-roteq79rk</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA Propuesta para el alumnado</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Recurso didáctico orientado a la formación del alumnado en la gestión de emergencias durante rutas en bicicleta. Incluye contenidos sobre prevención de riesgos, actuación ante accidentes, conducción segura de grupos y elaboración de productos aplicados como infografías, podcast y diseño de una jornada ciclista.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Francisco Serrano García de dionisio</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
